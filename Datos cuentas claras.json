@@ -1,0 +1,520 @@
+{
+  "ingresoMensual": "1500000",
+  "deudas": [
+    {
+      "acreedor": "Alquiler casa",
+      "monto": "677000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Alquiler negocio",
+      "monto": "350000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Tarjeta madre eve",
+      "monto": "200000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Prestamo gime",
+      "monto": "200000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Luz negocio",
+      "monto": "140000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Luz casa",
+      "monto": "60000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Wifi negocio",
+      "monto": "16000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Wifi casa",
+      "monto": "55000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Cuota colegio",
+      "monto": "120000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Gas",
+      "monto": "35000",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "Monotributo ",
+      "monto": "60000",
+      "tasa": "",
+      "pagoMin": ""
+    }
+  ],
+  "presupuesto": {
+    "pct": {
+      "necesidades": 0.5,
+      "deudas": 0.3,
+      "deseos": 0.15,
+      "fondo": 0.05
+    },
+    "real": {
+      "necesidades": "110000",
+      "deudas": "500000",
+      "deseos": "200000",
+      "fondo": "100000"
+    }
+  },
+  "gastosHormiga": [
+    {
+      "semana": 1,
+      "categoria": "Uber",
+      "descripcion": "Uber",
+      "monto": "3500"
+    },
+    {
+      "semana": 1,
+      "categoria": "Uber ",
+      "descripcion": "Uber",
+      "monto": "2500"
+    },
+    {
+      "semana": 1,
+      "categoria": "Pan cacero",
+      "descripcion": "Pan cacero",
+      "monto": "4000"
+    }
+  ],
+  "flujoCaja": {
+    "ingresos": [
+      "450000",
+      "450000",
+      "450000",
+      "450000"
+    ],
+    "egresos": [
+      "",
+      "",
+      "1350000",
+      "400000"
+    ]
+  },
+  "fondoEmergencia": {
+    "gastoEsencialManual": "",
+    "aportes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "plan90": [
+    {
+      "mes": "Mes 1",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    },
+    {
+      "mes": "Mes 2",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    },
+    {
+      "mes": "Mes 3",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    }
+  ],
+  "negocio": {
+    "tipoNegocio": "Pollería",
+    "ventas": [
+      {
+        "id": "p3zjeq69",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "7000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "tm6pjs6h",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "2650",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "i393bnnv",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "8500",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "b6onw5t4",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "9400",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "pvkd4sqc",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "7700",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "0t3tb4c2",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "42075",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "4amahkb2",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "9100",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "0f4jf0pd",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "14240",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "gny6exvv",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "12285",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "0xef96sz",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "18000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "cvu3f2rh",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "7300",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "h8owijcv",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "12920",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "y7hypxc9",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "7300",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "6q5a4bun",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "17000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "3g4w7pvp",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "9400",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "r5r2safi",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "3530",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "cadt8qqd",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "3800",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "icpnuw6h",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "5250",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "582xj9hw",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "8000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "0h7t28lc",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Polleria",
+        "producto": "Pollo",
+        "cantidad": "1",
+        "precioUnit": "3600",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "sttwkic7",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "1400",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "9p8xjktm",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "500",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "fk893f54",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "2000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "cknkwhdj",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "1450",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "v83m0fpn",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "2268",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      },
+      {
+        "id": "a8nj5tsx",
+        "fecha": "2026-07-29",
+        "turno": "Mañana",
+        "categoria": "Almacen",
+        "producto": "Almacen",
+        "cantidad": "1",
+        "precioUnit": "2000",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      }
+    ],
+    "precios": [
+      {
+        "id": "x2oquimx",
+        "categoria": "",
+        "producto": "",
+        "costo": "",
+        "precioMayor": "",
+        "precioMenor": ""
+      },
+      {
+        "id": "eyigu9vy",
+        "categoria": "",
+        "producto": "",
+        "costo": "",
+        "precioMayor": "",
+        "precioMenor": ""
+      }
+    ],
+    "gastosInternos": [
+      {
+        "id": "57sz6asq",
+        "fecha": "2026-07-29",
+        "categoria": "Mercadería / Insumos",
+        "descripcion": "Pan rallado",
+        "monto": "10000"
+      },
+      {
+        "id": "iyqwispt",
+        "fecha": "2026-07-29",
+        "categoria": "Transporte",
+        "descripcion": "Uber",
+        "monto": "8500"
+      },
+      {
+        "id": "apnqfesw",
+        "fecha": "2026-07-29",
+        "categoria": "Otro",
+        "descripcion": "Pan cacero",
+        "monto": "4000"
+      },
+      {
+        "id": "xpxzcsr3",
+        "fecha": "2026-07-29",
+        "categoria": "Mercadería / Insumos",
+        "descripcion": "Bolsas ",
+        "monto": "3600"
+      }
+    ],
+    "clientes": [
+      {
+        "id": "50mrt04c",
+        "cliente": "",
+        "fecha": "",
+        "concepto": "",
+        "debe": "",
+        "haber": ""
+      }
+    ],
+    "proveedores": [
+      {
+        "id": "9o6i1mz4",
+        "proveedor": "Camelias",
+        "fecha": "2026-07-29",
+        "concepto": "4 cajones de pollo",
+        "debo": "238000",
+        "pagado": ""
+      }
+    ],
+    "devoluciones": [
+      {
+        "id": "ptaet2yq",
+        "fecha": "",
+        "cliente": "",
+        "producto": "",
+        "motivo": "",
+        "monto": "",
+        "estado": "Pendiente"
+      }
+    ]
+  }
+}

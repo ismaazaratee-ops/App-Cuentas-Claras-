@@ -1,0 +1,156 @@
+{
+  "ingresoMensual": 350000,
+  "deudas": [
+    {
+      "acreedor": "",
+      "monto": "",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "",
+      "monto": "",
+      "tasa": "",
+      "pagoMin": ""
+    },
+    {
+      "acreedor": "",
+      "monto": "",
+      "tasa": "",
+      "pagoMin": ""
+    }
+  ],
+  "presupuesto": {
+    "pct": {
+      "necesidades": 0.5,
+      "deudas": 0.3,
+      "deseos": 0.15,
+      "fondo": 0.05
+    },
+    "real": {
+      "necesidades": "",
+      "deudas": "",
+      "deseos": "",
+      "fondo": ""
+    }
+  },
+  "gastosHormiga": [
+    {
+      "semana": 1,
+      "categoria": "",
+      "descripcion": "",
+      "monto": ""
+    }
+  ],
+  "flujoCaja": {
+    "ingresos": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "egresos": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "fondoEmergencia": {
+    "gastoEsencialManual": "",
+    "aportes": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "plan90": [
+    {
+      "mes": "Mes 1",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    },
+    {
+      "mes": "Mes 2",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    },
+    {
+      "mes": "Mes 3",
+      "objetivo": "",
+      "accion": "",
+      "estado": "Pendiente"
+    }
+  ],
+  "negocio": {
+    "tipoNegocio": "Almacén",
+    "ventas": [
+      {
+        "id": "riargkv2",
+        "fecha": "",
+        "turno": "Mañana",
+        "categoria": "",
+        "producto": "",
+        "cantidad": "",
+        "precioUnit": "",
+        "tipoVenta": "Minorista",
+        "medioPago": "Efectivo"
+      }
+    ],
+    "precios": [
+      {
+        "id": "xb9n892m",
+        "categoria": "",
+        "producto": "",
+        "costo": "",
+        "precioMayor": "",
+        "precioMenor": ""
+      }
+    ],
+    "gastosInternos": [
+      {
+        "id": "gwexd4uy",
+        "fecha": "",
+        "categoria": "Mercadería / Insumos",
+        "descripcion": "",
+        "monto": ""
+      }
+    ],
+    "clientes": [
+      {
+        "id": "f26rlxtn",
+        "cliente": "",
+        "fecha": "",
+        "concepto": "",
+        "debe": "",
+        "haber": ""
+      }
+    ],
+    "proveedores": [
+      {
+        "id": "3917lk3t",
+        "proveedor": "",
+        "fecha": "",
+        "concepto": "",
+        "debo": "",
+        "pagado": ""
+      }
+    ],
+    "devoluciones": [
+      {
+        "id": "ccnnly9o",
+        "fecha": "",
+        "cliente": "",
+        "producto": "",
+        "motivo": "",
+        "monto": "",
+        "estado": "Pendiente"
+      }
+    ]
+  }
+}
